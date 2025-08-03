@@ -1,3 +1,4 @@
 import sys
 
-print("first {}!".format(sys.argv[1]))
+name = sys.argv[1]
+print("first {}!".format(name))
