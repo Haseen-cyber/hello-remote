@@ -1,3 +1,1 @@
-import sys
-
-print("first {}!".format(sys.argv[1]))
+print("Hello world Hatter!")
